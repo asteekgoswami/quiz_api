@@ -1,0 +1,181 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Computer Science",
+      "question": "Which of these is not a programming language?",
+      "correct_answer": "BNF",
+      "incorrect_answers": ["BASIC", "COBOL", "FORTRAN"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Computer Science",
+      "question": "Python is compile time Language ?",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Computer Science",
+      "question": "1 Mb = 1024Kb ? ",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Computer Science",
+      "question": "What is the full of form ALU?",
+      "correct_answer": "Arithmetic  Logic Unit",
+      "incorrect_answers": ["Analyst Logic Unit", "Algebraic Logic Unit", "None of the above"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Which programming language shares its name with an island in Indonesia?",
+      "correct_answer": "Java",
+      "incorrect_answers": ["Python", "C", "Jakarta"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Mythology",
+      "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+      "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+      "incorrect_answers": [
+        "Tied to a boulder for eternity, being pecked by birds.",
+        "Standing in a lake filled with water he could not drink.",
+        "To fell a tree that regenerated after every axe swing."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Celebrities",
+      "question": "Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",
+      "correct_answer": "Sundance",
+      "incorrect_answers": ["Woodward", "Turner", "Booker"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In which game does a character say, &quot;Sometimes, I dream about cheese&quot;?",
+      "correct_answer": "Half Life 2",
+      "incorrect_answers": [
+        "Team Fortress 2",
+        "Dark Souls",
+        "Serious Sam: The Second Encounter"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Akatsuki&#039;s subclass in &quot;Log Horizon&quot; is what?",
+      "correct_answer": " Tracker",
+      "incorrect_answers": ["Assassin", "Scribe", "Apprentice"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Celebrities",
+      "question": "Gwyneth Paltrow has a daughter named...?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Lily", "French", "Dakota"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "A doctor with a PhD is a doctor of what?",
+      "correct_answer": "Philosophy",
+      "incorrect_answers": ["Psychology", "Phrenology", "Physical Therapy"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Television",
+      "question": "Which former Coronation Street actress was once a hostess on the British Game Show &quot;Double Your Money&quot;?",
+      "correct_answer": "Amanda Barrie",
+      "incorrect_answers": ["Sue Nicholls", "Violet Carson", "Jean Alexander"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Big the Cat is a playable character in &quot;Sonic Generations&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Vehicles",
+      "question": "Which animal features on the logo for Abarth, the motorsport division of Fiat?",
+      "correct_answer": "Scorpion",
+      "incorrect_answers": ["Snake", "Bull", "Horse"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What was the first ever London Underground line to be built?",
+      "correct_answer": "Metropolitan Line",
+      "incorrect_answers": ["Circle Line", "Bakerloo Line", "Victoria Line"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "The name of the attack &quot;Kamehameha&quot; in Dragon Ball Z was named after a famous king of Hawaii.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
+      "correct_answer": "Raise Hell",
+      "incorrect_answers": [
+        "Freedom",
+        "Skewer the Winged Beast",
+        "Ascend from Darkness"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "The greek god Poseidon was the god of what?",
+      "correct_answer": "The Sea",
+      "incorrect_answers": ["War", "Sun", "Fire"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina&#039;s ultimate ability is what?",
+      "correct_answer": "Ultimate Swimmer",
+      "incorrect_answers": [
+        "Ultimate Detective",
+        "Ultimate Gambler",
+        "Ultimate Dancer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What does the International System of Quantities refer 1024 bytes as?",
+      "correct_answer": "Kibibyte",
+      "incorrect_answers": ["Kylobyte", "Kilobyte", "Kelobyte"]
+    }
+  ]
+}
